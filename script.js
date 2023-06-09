@@ -1,6 +1,6 @@
-const industries = ["Healthcare", "E-commerce", "Education", "Travel"];
-const technologies = ["Artificial Intelligence", "Blockchain", "Internet of Things", "Virtual Reality"];
-const audiences = ["Millennials", "Small Business Owners", "Fitness Enthusiasts", "Pet Lovers"];
+const industries = ["Healthcare", "E-commerce", "Education", "Entertainment"];
+const technologies = ["Artificial Intelligence", "Blockchain", "Internet of Things", "AR/VR"];
+const audiences = ["Millennials", "Seniors", "Families", "Youth"];
 const businessModels = ["Subscription-based", "Freemium", "Marketplace", "On-demand"];
 
 function generateStartupIdea() {
